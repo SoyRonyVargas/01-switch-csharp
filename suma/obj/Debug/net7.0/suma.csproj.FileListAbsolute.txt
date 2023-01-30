@@ -1,0 +1,15 @@
+/Users/darth/Projects/suma/suma/bin/Debug/net7.0/suma
+/Users/darth/Projects/suma/suma/bin/Debug/net7.0/suma.deps.json
+/Users/darth/Projects/suma/suma/bin/Debug/net7.0/suma.runtimeconfig.json
+/Users/darth/Projects/suma/suma/bin/Debug/net7.0/suma.dll
+/Users/darth/Projects/suma/suma/bin/Debug/net7.0/suma.pdb
+/Users/darth/Projects/suma/suma/obj/Debug/net7.0/suma.csproj.AssemblyReference.cache
+/Users/darth/Projects/suma/suma/obj/Debug/net7.0/suma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darth/Projects/suma/suma/obj/Debug/net7.0/suma.AssemblyInfoInputs.cache
+/Users/darth/Projects/suma/suma/obj/Debug/net7.0/suma.AssemblyInfo.cs
+/Users/darth/Projects/suma/suma/obj/Debug/net7.0/suma.csproj.CoreCompileInputs.cache
+/Users/darth/Projects/suma/suma/obj/Debug/net7.0/suma.dll
+/Users/darth/Projects/suma/suma/obj/Debug/net7.0/refint/suma.dll
+/Users/darth/Projects/suma/suma/obj/Debug/net7.0/suma.pdb
+/Users/darth/Projects/suma/suma/obj/Debug/net7.0/suma.genruntimeconfig.cache
+/Users/darth/Projects/suma/suma/obj/Debug/net7.0/ref/suma.dll
